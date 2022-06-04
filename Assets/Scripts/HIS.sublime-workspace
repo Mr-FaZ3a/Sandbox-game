@@ -1,0 +1,1111 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"WaitFor",
+				"WaitForSeconds"
+			],
+			[
+				"remplir",
+				"remplir1"
+			],
+			[
+				"ph",
+				"phrase"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"redsc",
+				"redscoreui"
+			],
+			[
+				"blue",
+				"bluescoreui"
+			],
+			[
+				"shield",
+				"shieldmass"
+			],
+			[
+				"shiled",
+				"shieldvisiblity"
+			],
+			[
+				"Vector",
+				"Vector3"
+			],
+			[
+				"Character",
+				"Character1"
+			],
+			[
+				"transform",
+				"transform.position;"
+			],
+			[
+				"transfrom",
+				"transfrom.position"
+			],
+			[
+				"Cont",
+				"ControlClick()"
+			],
+			[
+				"Sen",
+				"Send()"
+			],
+			[
+				"Open",
+				"FileOpen()"
+			],
+			[
+				"win",
+				"WinClose()"
+			],
+			[
+				"WinWa",
+				"WinWaitActive()"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"aling",
+				"align-items"
+			],
+			[
+				"backgrou",
+				"background-position"
+			],
+			[
+				"h",
+				"h3"
+			],
+			[
+				"html",
+				"html class"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"s",
+				"style.display"
+			],
+			[
+				"do",
+				"document.getElementById"
+			],
+			[
+				"documen",
+				"document.getElementById"
+			],
+			[
+				"get",
+				".getElementById"
+			],
+			[
+				"D",
+				"Debug.Log"
+			],
+			[
+				"UnityE",
+				"UnityEngine.UI"
+			],
+			[
+				"c",
+				"Console"
+			],
+			[
+				"con",
+				"Console.WriteLine"
+			],
+			[
+				"cons",
+				"const string"
+			],
+			[
+				"de",
+				"Debug"
+			],
+			[
+				"div",
+				"div3"
+			],
+			[
+				"even",
+				"addEventListener"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"jusi",
+				"justify-content"
+			],
+			[
+				"gre",
+				"grey"
+			],
+			[
+				"a",
+				"await"
+			],
+			[
+				"fo",
+				"for"
+			],
+			[
+				"f",
+				"for"
+			],
+			[
+				"pri",
+				"printshape"
+			],
+			[
+				"hello",
+				"hello=hello, loop"
+			],
+			[
+				"cdef",
+				"cpdef"
+			],
+			[
+				"_",
+				"_exit(…)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Behavior.cs",
+			"settings":
+			{
+				"buffer_size": 2727,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Earthquake.cs",
+			"redo_stack":
+			[
+				[
+					103,
+					1,
+					"insert",
+					{
+						"characters": "\t"
+					},
+					"AgAAALEDAAAAAAAAswMAAAAAAAAAAAAArQMAAAAAAACtAwAAAAAAAAQAAAAgICAg",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAA0BAAAAAAAADQEAAAAAAAAAAAAAAADwvw"
+				]
+			],
+			"settings":
+			{
+				"buffer_size": 4340,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Fire.cs",
+			"settings":
+			{
+				"buffer_size": 4874,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Spawning.cs",
+			"settings":
+			{
+				"buffer_size": 3110,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Turnado.cs",
+			"settings":
+			{
+				"buffer_size": 1361,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					54,
+					1,
+					"insert",
+					{
+						"characters": "\nawguk"
+					},
+					"CAAAAAoFAAAAAAAACwUAAAAAAAAAAAAACwUAAAAAAAAPBQAAAAAAAAAAAAAPBQAAAAAAABMFAAAAAAAAAAAAABMFAAAAAAAAFAUAAAAAAAAAAAAAFAUAAAAAAAAVBQAAAAAAAAAAAAAVBQAAAAAAABYFAAAAAAAAAAAAABYFAAAAAAAAFwUAAAAAAAAAAAAAFwUAAAAAAAAYBQAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAoFAAAAAAAACgUAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					55,
+					1,
+					"left_delete",
+					null,
+					"BQAAABcFAAAAAAAAFwUAAAAAAAABAAAAaxYFAAAAAAAAFgUAAAAAAAABAAAAdRUFAAAAAAAAFQUAAAAAAAABAAAAZxQFAAAAAAAAFAUAAAAAAAABAAAAdxMFAAAAAAAAEwUAAAAAAAABAAAAYQ",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABgFAAAAAAAAGAUAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					56,
+					1,
+					"insert",
+					{
+						"characters": "wh"
+					},
+					"AgAAABMFAAAAAAAAFAUAAAAAAAAAAAAAFAUAAAAAAAAVBQAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABMFAAAAAAAAEwUAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					57,
+					1,
+					"left_delete",
+					null,
+					"AgAAABQFAAAAAAAAFAUAAAAAAAABAAAAaBMFAAAAAAAAEwUAAAAAAAABAAAAdw",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABUFAAAAAAAAFQUAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					58,
+					1,
+					"left_delete",
+					null,
+					"AwAAAA8FAAAAAAAADwUAAAAAAAAEAAAAICAgIAsFAAAAAAAACwUAAAAAAAAEAAAAICAgIAoFAAAAAAAACgUAAAAAAAABAAAACg",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABMFAAAAAAAAEwUAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					126,
+					1,
+					"insert",
+					{
+						"characters": "\nD"
+					},
+					"AwAAADYFAAAAAAAANwUAAAAAAAAAAAAANwUAAAAAAAA/BQAAAAAAAAAAAAA/BQAAAAAAAEAFAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAADYFAAAAAAAANgUAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					1,
+					4,
+					"left_delete",
+					null,
+					"BAAAAD8FAAAAAAAAPwUAAAAAAAABAAAARDsFAAAAAAAAOwUAAAAAAAAEAAAAICAgIDcFAAAAAAAANwUAAAAAAAAEAAAAICAgIDYFAAAAAAAANgUAAAAAAAABAAAACg",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAEAFAAAAAAAAQAUAAAAAAAAAAAAAAADwvw"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/AutoItScript/AutoIt.sublime-build",
+					""
+				],
+				[
+					"Packages/AutoItScript/AutoIt.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/AutoItScript/AutoIt.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/AutoItScript/AutoIt.sublime-build",
+					""
+				],
+				[
+					"Packages/AutoItScript/AutoIt.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/AutoItScript/AutoIt.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/AutoItScript/AutoIt.sublime-build",
+					""
+				],
+				[
+					"Packages/AutoItScript/AutoIt.sublime-build",
+					"run"
+				]
+			],
+			[
+				"Packages/AutoItScript/AutoIt.sublime-build",
+				"run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/python10.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/python10.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/python10.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python10.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/User/python10.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/python10.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python10.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/User/python10.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/sharp.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sharp.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/User/sharp.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"build",
+				"Build: Cancel"
+			],
+			[
+				"p",
+				"Set Syntax: Python"
+			],
+			[
+				"ma",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"pytohn",
+				"Set Syntax: Python"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Set Syntax: javascr",
+				"Set Syntax: Unity JavaScript"
+			],
+			[
+				"package ",
+				"Install Package Control"
+			],
+			[
+				"packagge",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Package COntrol: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package COntrole : remoev",
+				"Package Control: Remove Channel"
+			],
+			[
+				"set Syntax: java",
+				"Set Syntax: JavaScript (Rails)"
+			],
+			[
+				"package Control:  isna",
+				"Package Control: Install Package"
+			],
+			[
+				"packagae Controle: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"set syntax: java",
+				"Set Syntax: Unity JavaScript"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax java",
+				"Set Syntax: JavaScript Ultimate"
+			],
+			[
+				"control",
+				"Package Control: Install Package"
+			],
+			[
+				"cancel",
+				"Build: Cancel"
+			],
+			[
+				"",
+				"Build: Cancel"
+			],
+			[
+				"build ",
+				"Build: Cancel"
+			],
+			[
+				"\\",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"unity",
+				"Set Syntax: Unity Shader"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"rempve",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"package con",
+				"Package Control: Install Package"
+			],
+			[
+				"buildwith",
+				"Build With: python10"
+			],
+			[
+				"syntax: python",
+				"Set Syntax: Python"
+			],
+			[
+				"console",
+				"Set Syntax: R Console"
+			],
+			[
+				"system",
+				"Build: New Build System"
+			],
+			[
+				"Set build",
+				"Set Syntax: NAnt Build File"
+			],
+			[
+				"buil",
+				"Build: Cancel"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"install package control",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/User/Game Projects",
+		"/C/Users/User/Game Projects/HIS",
+		"/C/Users/User/Game Projects/HIS/Assets",
+		"/C/Users/User/Game Projects/HIS/Assets/Scripts"
+	],
+	"file_history":
+	[
+		"/C/Users/User/C#projects/Yield.cs",
+		"/C/Users/User/PycharmProjects/TypingCheating.py",
+		"/F/Mouadh Ktari projets/Other Project/Python Projects/Nouveau Python File.py",
+		"/C/Users/User/PycharmProjects/Files/trying1.py",
+		"/C/Users/User/PycharmProjects/Files/trying.py",
+		"/C/Users/User/Game1/Assets/scripts/basicscript.cs",
+		"/C/Users/User/Game1/Assets/scripts/jumpers.cs",
+		"/C/Users/User/Game1/Assets/scripts/Finish_restart.cs",
+		"/C/Users/User/Game1/Assets/scripts/ForceResistance.cs",
+		"/C/Users/User/PycharmProjects/Files/secure boutique/script.py",
+		"/C/Users/User/Desktop/Websites Design/js++/click event/index.html",
+		"/C/Users/User/Desktop/Websites Design/nodejs/search.js",
+		"/C/Users/User/PycharmProjects/Files/boutique/script.py",
+		"/C/Users/User/Desktop/Websites Design/js++/click event/work.js",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Javascript Beautify/JavascriptBeautify.sublime-settings",
+		"/F/Mouadh Ktari projets/Other Project/Web Projects/js++/projetjs/brain.js",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/javascript.yaml",
+		"/F/Mouadh Ktari projets/Other Project/Web Projects/js++/test2/brain.js",
+		"/C/Users/User/PycharmProjects/Files/Corr Act Guidée Fich Texte/CorrActGuidéeFichTexte.py",
+		"/C/Users/User/PycharmProjects/Files/App Cours Guidé Fich Typé/AppCoursGuidéFichTypé.py",
+		"/C/Users/User/PycharmProjects/Files/Gestion/script.py",
+		"/C/Users/User/PycharmProjects/Files/corrupted phrases/script1.py",
+		"/C/Users/User/PycharmProjects/Algorithm/binary search.py",
+		"/F/Mouadh Ktari projets/Other Project/Python Projects/corrupted phrases/script.py",
+		"/F/Mouadh Ktari projets/Other Project/Web Projects/js++/datalist/style.css",
+		"/F/Mouadh Ktari projets/Other Project/Web Projects/js++/datalist/index.html",
+		"/F/Mouadh Ktari projets/Other Project/Web Projects/js++/datalist/script.js",
+		"/C/Users/User/PycharmProjects/Debugging/Xs Os.py",
+		"/C/Users/User/Flappy Bird/Assets/Scripts/obstaclespowner.cs",
+		"/C/Users/User/Flappy Bird/Assets/Scripts/following.cs",
+		"/C/Users/User/PycharmProjects/Intermediate/codewars/Sum by Factors.py",
+		"/C/Users/User/PycharmProjects/colors/colors.py",
+		"/C/Users/User/Flappy Bird/Assets/Scripts/swippingcharacter.cs",
+		"/C/Users/User/Game1/Assets/scripts/DetectorScript.cs",
+		"/C/Users/User/Pong/Assets/baller.cs",
+		"/C/Users/User/Flappy Bird/Assets/Scripts/teleport.cs",
+		"/C/Users/User/Flappy Bird/Assets/Scripts/movementbird.cs",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/Default.sublime-keymap",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/TabNine/Default.sublime-keymap",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/TabNine.sublime-settings",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/TabNine/TabNine.sublime-settings",
+		"/C/Users/User/Flappy Bird/Library/Flappy Bird.sublime-editor",
+		"/C/Users/User/Desktop/AutoIT Projects/Run Script (x64).lnk",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/AutoItScript/AutoIt.sublime-build",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/python10.sublime-build",
+		"/C/Users/User/PycharmProjects/not DISTROUB",
+		"/F/Mouadh Ktari projets/Other Project/Web Projects/js++/date de nais/script.js",
+		"/F/Mouadh Ktari projets/Other Project/Web Projects/js++/date/index.html",
+		"/C/Users/User/PycharmProjects/pip3",
+		"/F/Mouadh Ktari projets/Atba3ni/djo.js",
+		"/F/Mouadh Ktari projets/Atba3ni/index.html",
+		"/F/Mouadh Ktari projets/Atba3ni/style.css",
+		"/C/Users/User/My project/Assets/barautomove.cs",
+		"/C/Users/User/C#projects/checkpoint(functions and conditions.cs",
+		"/C/Users/User/My project/Assets/uiscripts.cs",
+		"/C/Users/User/My project/Assets/pingpong.cs",
+		"/C/Users/User/My project/Assets/gravityscale.cs",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/sharp.sublime-build",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript.sublime-build",
+		"/C/Users/User/Desktop/Websites Design/revise/work.js",
+		"/C/Users/User/Desktop/Websites Design/revise/style.css",
+		"/C/Users/User/Desktop/Websites Design/revise/index.html",
+		"/C/Users/User/Desktop/Websites Design/learning clear/style.css",
+		"/C/Users/User/Desktop/Websites Design/learning clear/index.html",
+		"/C/Users/User/Desktop/Websites Design/learning clear",
+		"/C/Users/User/Desktop/Websites Design/js++/click event/style.css",
+		"/F/Mouadh Ktari projets/Other Project/Web Projects/js++/test2/style.css",
+		"/F/Mouadh Ktari projets/Other Project/Web Projects/js++/test2/index.html",
+		"/F/Mouadh Ktari projets/Other Project/Web Projects/HTML5 & CSS3 infocyber/تعلم(html && css).pdf",
+		"/C/Users/User/C++Projects/football.cpp",
+		"/C/Users/User/PycharmProjects/venv/Lib/site-packages/aiohttp/client_reqrep.py",
+		"/C/Users/User/PycharmProjects/Intermediate/asynchronous.py",
+		"/C/Users/User/Downloads/THESIS-IMEN-KTARI-corrected-24.12.2021.docx",
+		"/C/Users/User/PycharmProjects/Advanced/Cpythonist/begin.c",
+		"/C/Users/User/PycharmProjects/Advanced/Cpythonist/begin.pyx",
+		"/C/Users/User/PycharmProjects/Advanced/Cpythonist/trying.py",
+		"/C/Users/User/PycharmProjects/Intermediate/DjangoTrainningProject/Lib/site-packages/pip/_internal/resolution/resolvelib/found_candidates.py",
+		"/C/Users/User/PycharmProjects/venv/Lib/site-packages/numpy/linalg/tests/test_linalg.py",
+		"/C/Users/User/PycharmProjects/PyThon OOP/Variables & Function.py",
+		"/C/Users/User/PycharmProjects/PyThon OOP/snake.py",
+		"/C/Users/User/PycharmProjects/botspam.c",
+		"/C/Users/User/PycharmProjects/botspam.py",
+		"/C/Users/User/PycharmProjects/do not DISTROUB",
+		"/C/Users/User/PycharmProjects/ROUB",
+		"/C/Users/User/PycharmProjects/ISTROUB",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/nots DISTROUB",
+		"/C/Users/User/PycharmProjects/numpy array.py",
+		"/F/Mouadh Ktari projets/Other Project/Python Projects/defi2.py",
+		"/F/Mouadh Ktari projets/Other Project/Web Projects/js++/projetjs/index.html",
+		"/F/Mouadh Ktari projets/Other Project/Web Projects/js++/projetjs/style.css",
+		"/F/Mouadh Ktari projets/Other Project/Web Projects/project de l'anne/home.html",
+		"/F/Mouadh Ktari projets/Other Project/Web Projects/project de l'anne/stylehome.css"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Behavior.cs",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2727,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								624,
+								630
+							]
+						],
+						"settings":
+						{
+							"show_definitions": true,
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 903.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Earthquake.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4340,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								506,
+								506
+							]
+						],
+						"settings":
+						{
+							"show_definitions": true,
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 261.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Fire.cs",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4874,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								307,
+								311
+							]
+						],
+						"settings":
+						{
+							"show_definitions": true,
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": true,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Spawning.cs",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3110,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2045,
+								2056
+							]
+						],
+						"settings":
+						{
+							"show_definitions": true,
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1157.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Turnado.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1361,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25,
+								25
+							]
+						],
+						"settings":
+						{
+							"show_definitions": true,
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 209.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus Build Results":
+	{
+		"height": 243.0
+	},
+	"output.exec":
+	{
+		"height": 274.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/python10.sublime-build",
+	"project": "HIS.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"asy",
+				"Intermediate\\asynchronous.py"
+			],
+			[
+				"",
+				"botspam.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"A"
+			]
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
